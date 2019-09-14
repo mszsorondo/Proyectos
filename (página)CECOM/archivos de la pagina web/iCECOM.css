@@ -1,0 +1,33 @@
+body{
+    background-color: #20B2AA;
+}
+
+
+#maintitle{
+    text-align: center;
+}
+#semislogan{
+    text-align: center;
+}
+#topnav{
+    text-align: center;
+    position: sticky;
+    
+    
+  
+}
+#topnav li{
+   
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    display: inline
+    
+}
+
+#reg {
+    padding: 5px;
+}
+#useraccess{
+    text-align: right;
+}
