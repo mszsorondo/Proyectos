@@ -1,0 +1,8 @@
+Who your users are?
+Requirement specification-feature:
+(user story format) 
+1. As a user, i want to know what workouts i can use with the rings and why they are effective.
+2. As a sportsman, i want to have my following workout tracked so that i don't have to worry about writing it down nor organize it.
+3. As a gymnast, i want to have a sample video of each exercise at hand so that i can know how to do it when i have to.
+4. As a gymnast, i want to know why i should follow certain protocols so that i know i'm doing the right thing.
+5. As a gymnast, i want to have a projection of my workouts so that i have some motivation. 

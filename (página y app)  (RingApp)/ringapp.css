@@ -1,0 +1,24 @@
+body{
+    background-color: #B22222;
+}
+#maintitle{
+    text-align: center;
+}
+#slogan{
+    text-align: center;
+    
+}
+#topnav{
+    text-align: center;
+}
+#topnav a{
+    margin: 20px;
+    
+}
+#useraccess{
+    text-align: right;
+    margin-right: 20px;
+}
+#useraccess a{
+    margin:10px;
+}

@@ -1,0 +1,18 @@
+#secciones {
+    text-align: center;
+    background-color: grey;
+    height: 23px;   
+    widows: 600px;
+    padding: 20px;
+}
+#secciones a{
+    padding: 15px;
+   
+    }
+#useraccess{
+    text-align: right;
+    margin-right: 30px;
+}
+body{
+    background-color: skyblue;
+}

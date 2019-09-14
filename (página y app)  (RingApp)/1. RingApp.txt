@@ -1,0 +1,10 @@
+idea:
+App que hace una pregunta por día para atacar un problema o idea que vaya a una base de datos de gente que genere soluciones. Se necesita un incentivo para que la persona lo tenga. La persona tambien puede agregar extras si quiere.
+user needs: 
+pains & gains:
+1. increase fitness and aestethics
+2. take it anywhere (no excuses)
+3. fullbody training
+4. trains abs, stability and forearms at the same time. great for lower back tightness
+5. more overall development than conventional calisthenics
+
