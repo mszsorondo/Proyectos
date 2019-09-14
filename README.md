@@ -9,11 +9,10 @@ CSS general:16/8/2019: Module 4 :
 
 
 Next steps:
-1. add functionality to the top navigator menu (every time i click, new content is displayed)
-2. design the menus correctly
-3. add content to each section
-4. add functional inputs
-5. idea educacion: computational general learning
+1. add content to each section (via HTML) 
+2. add functionality to each page
+
+
 
 luego...
 (crear?) y poner un logo superior izquierdo
